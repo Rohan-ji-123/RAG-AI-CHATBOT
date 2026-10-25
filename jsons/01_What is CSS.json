@@ -1,0 +1,1083 @@
+{
+    "chunks": [
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 0.0,
+            "end": 3.36,
+            "text": " Hi everyone, in this chapter we are going to study about CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 3.36,
+            "end": 9.08,
+            "text": " CSS is a website, website, and a website to add styling to some documents."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 9.08,
+            "end": 13.200000000000001,
+            "text": " CSS is called Cascading Style Sheets."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 13.200000000000001,
+            "end": 18.84,
+            "text": " Now, the style sheet is clear that we are going to make a sheet that will add style in some document."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 18.84,
+            "end": 25.240000000000002,
+            "text": " And Cascading means that in CSS terms we will understand the chapters in CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 25.240000000000002,
+            "end": 28.48,
+            "text": " Now, CSS is explained in a very basic way."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 28.48,
+            "end": 33.04,
+            "text": " So, we have just used a lot of documents as well as HTML."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 33.04,
+            "end": 39.4,
+            "text": " But the HTML web page is not that good, which shows the real life websites."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 39.4,
+            "end": 44.32,
+            "text": " Because in real life websites, there is a secret that is CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 44.32,
+            "end": 50.32,
+            "text": " In it, there are styling colors, text decoration, which different things are used."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 50.32,
+            "end": 56.72,
+            "text": " Because of which, it is used to use the feeling, the feeling of seeing and the feeling of using it."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 57.04,
+            "end": 59.6,
+            "text": " And we have some boiled down stuff."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 59.6,
+            "end": 61.76,
+            "text": " So, like we have human skeleton."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 61.76,
+            "end": 65.8,
+            "text": " What is human skeleton? Our basic basic thing is to prepare it."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 65.8,
+            "end": 68.0,
+            "text": " All our organs are prepared in it."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 68.0,
+            "end": 69.6,
+            "text": " Important things are coming."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 69.6,
+            "end": 74.6,
+            "text": " But if we imagine it, we can understand it in a way like HTML."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 74.6,
+            "end": 77.56,
+            "text": " But we don't see human skeleton and see it in appealing."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 77.56,
+            "end": 80.36,
+            "text": " We will not say this skeleton is stylish."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 80.36,
+            "end": 84.75999999999999,
+            "text": " To add style, we have to apply skin layer."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 84.75999999999999,
+            "end": 86.48,
+            "text": " Then we have to wear it on clothes."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 86.56,
+            "end": 90.68,
+            "text": " So, we have to add the clothes that we wear in the styling."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 90.68,
+            "end": 94.84,
+            "text": " So, HTML is the skeleton just with additional layers."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 94.84,
+            "end": 98.52000000000001,
+            "text": " So, with HTML, we have to add the same basic elements."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 98.52000000000001,
+            "end": 100.04,
+            "text": " So, we have to add the style."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 100.04,
+            "end": 101.28,
+            "text": " We have to add color."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 101.28,
+            "end": 104.12,
+            "text": " We have to add color to make it more appealing."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 104.12,
+            "end": 105.32000000000001,
+            "text": " Or to look for users."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 105.32000000000001,
+            "end": 109.76,
+            "text": " If we put all of them at home, we will not be able to wear them without wearing them."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 109.76,
+            "end": 113.16,
+            "text": " And after wearing them, it will be more tasty."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 113.16,
+            "end": 115.8,
+            "text": " It is the same thing for CSS website."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 115.8,
+            "end": 118.36,
+            "text": " Without CSS, we can run all the websites."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 118.36,
+            "end": 122.96,
+            "text": " But if we want to make it beautiful, we have to make it nice."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 122.96,
+            "end": 125.56,
+            "text": " So, we should use CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 125.56,
+            "end": 127.39999999999999,
+            "text": " Now, let's talk about the details."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 127.39999999999999,
+            "end": 129.2,
+            "text": " CSS is actually something."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 129.2,
+            "end": 134.72,
+            "text": " CSS is actually a language that is used to describe the style of a document."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 134.72,
+            "end": 138.0,
+            "text": " So, we should add style in a document."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 138.0,
+            "end": 140.92,
+            "text": " It is used to describe CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 140.92,
+            "end": 144.76,
+            "text": " The style of the document is called text."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 144.76,
+            "end": 148.23999999999998,
+            "text": " We have written text, textual information."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 148.23999999999998,
+            "end": 149.95999999999998,
+            "text": " We are using font."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 149.95999999999998,
+            "end": 151.39999999999998,
+            "text": " What are the size of font?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 151.39999999999998,
+            "end": 154.48,
+            "text": " Are we showing bold things or italics?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 154.48,
+            "end": 156.6,
+            "text": " We are showing colors."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 156.6,
+            "end": 158.92,
+            "text": " What is the color of the element?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 158.92,
+            "end": 160.6,
+            "text": " Is it the color of the heading?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 160.6,
+            "end": 163.67999999999998,
+            "text": " Is it the color of the paragraph?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 163.67999999999998,
+            "end": 165.83999999999997,
+            "text": " Is it the background color?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 165.83999999999997,
+            "end": 167.72,
+            "text": " Different portions of the website?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 167.72,
+            "end": 169.6,
+            "text": " What is the background color?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 169.6,
+            "end": 171.6,
+            "text": " We have buttons."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 171.6,
+            "end": 173.6,
+            "text": " What is the background color?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 173.6,
+            "end": 177.35999999999999,
+            "text": " What is the text written on the button?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 177.35999999999999,
+            "end": 179.6,
+            "text": " So, the different parts of the text are different."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 179.6,
+            "end": 182.79999999999998,
+            "text": " Only these are different properties."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 182.79999999999998,
+            "end": 183.79999999999998,
+            "text": " What do they say?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 183.79999999999998,
+            "end": 185.79999999999998,
+            "text": " We call them properties."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 185.79999999999998,
+            "end": 189.2,
+            "text": " These are all properties of CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 189.2,
+            "end": 191.2,
+            "text": " And they change their properties."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 191.2,
+            "end": 194.0,
+            "text": " They are used to make the style of the document."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 194.0,
+            "end": 196.4,
+            "text": " But before making the style of the document,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 196.4,
+            "end": 198.4,
+            "text": " we need some content."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 198.4,
+            "end": 200.4,
+            "text": " Some basic structure, some things,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 200.4,
+            "end": 202.4,
+            "text": " some things that we can style."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 202.4,
+            "end": 206.4,
+            "text": " So, before making the CSS, we have learned that HTML is learned."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 206.4,
+            "end": 208.4,
+            "text": " Because HTML gives us content."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 208.4,
+            "end": 212.4,
+            "text": " And we apply the style on the CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 212.4,
+            "end": 215.4,
+            "text": " So, the first chapter that was written was HTML."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 215.4,
+            "end": 220.4,
+            "text": " And now we are going to style all the content on the CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 220.4,
+            "end": 223.4,
+            "text": " Apart from that, we need to tell you about a small note."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 223.4,
+            "end": 227.4,
+            "text": " The CSS is very big topic as compared to HTML."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 227.4,
+            "end": 229.4,
+            "text": " In HTML, we covered a lot of things in CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 229.4,
+            "end": 233.4,
+            "text": " But CSS is going to cover a lot more."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 233.4,
+            "end": 235.4,
+            "text": " So, the chapters that came in the CSS,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 235.4,
+            "end": 237.4,
+            "text": " we are covering all the CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 237.4,
+            "end": 239.4,
+            "text": " But we don't have to worry about CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 239.4,
+            "end": 241.4,
+            "text": " We have learned so many topics."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 241.4,
+            "end": 243.4,
+            "text": " But in this, how do we do this?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 243.4,
+            "end": 245.4,
+            "text": " Because CSS is so important."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 245.4,
+            "end": 249.4,
+            "text": " We will practice it in the form of assignment questions."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 249.4,
+            "end": 251.4,
+            "text": " In the form of practice questions."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 251.4,
+            "end": 254.4,
+            "text": " And the other things that we don't have to worry about."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 254.4,
+            "end": 257.4,
+            "text": " If all the properties are done, how do I remember them?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 257.4,
+            "end": 259.4,
+            "text": " I don't need to remember them."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 259.4,
+            "end": 261.4,
+            "text": " What we need to do is to make a smart web developer."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 261.4,
+            "end": 263.4,
+            "text": " Which can be Google."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 263.4,
+            "end": 265.4,
+            "text": " They have to solve the problem themselves."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 265.4,
+            "end": 268.4,
+            "text": " So, whatever we will see in the different properties of CSS,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 268.4,
+            "end": 271.4,
+            "text": " we don't have to worry about it."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 271.4,
+            "end": 275.4,
+            "text": " We have to cover a topic slowly and understand it only for now."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 275.4,
+            "end": 278.4,
+            "text": " And we have to take care of our questions."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 278.4,
+            "end": 282.4,
+            "text": " Next, we will see the example of what CSS is visually."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 282.4,
+            "end": 286.4,
+            "text": " This is an Amazon web page that is showing you."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 286.4,
+            "end": 288.4,
+            "text": " I will zoom in."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 288.4,
+            "end": 290.4,
+            "text": " This is showing you CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 290.4,
+            "end": 292.4,
+            "text": " You will see a normal Amazon website on it."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 292.4,
+            "end": 294.4,
+            "text": " You will see it again."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 294.4,
+            "end": 296.4,
+            "text": " You will see different options."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 296.4,
+            "end": 298.4,
+            "text": " You will see some photos."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 298.4,
+            "end": 300.4,
+            "text": " But if I remove CSS on the same website,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 300.4,
+            "end": 302.4,
+            "text": " then this web page will show you something like this."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 302.4,
+            "end": 304.4,
+            "text": " What happened on this web page?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 304.4,
+            "end": 306.4,
+            "text": " All the things are there."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 306.4,
+            "end": 308.4,
+            "text": " The photos were there before."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 308.4,
+            "end": 310.4,
+            "text": " All the text was there."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 310.4,
+            "end": 312.4,
+            "text": " The sign-in button, the start-hair button,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 312.4,
+            "end": 314.4,
+            "text": " all these things."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 314.4,
+            "end": 316.4,
+            "text": " But this page is not appealing."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 316.4,
+            "end": 318.4,
+            "text": " It is used so much to make it useful."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 318.4,
+            "end": 320.4,
+            "text": " This is the difference between CSS and CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 320.4,
+            "end": 322.4,
+            "text": " And in CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 322.4,
+            "end": 324.4,
+            "text": " Let's look at another real life example."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 324.4,
+            "end": 328.4,
+            "text": " I will show you a video of Wikipedia on random pages."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 328.4,
+            "end": 332.4,
+            "text": " Let's take a look at Wikipedia's video."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 332.4,
+            "end": 334.4,
+            "text": " And I will search for this."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 334.4,
+            "end": 335.4,
+            "text": " Avengers."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 337.4,
+            "end": 341.4,
+            "text": " So, I got a lot of information about Avengers."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 341.4,
+            "end": 344.4,
+            "text": " Let's say, Avengers comics."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 344.4,
+            "end": 346.4,
+            "text": " And here is the whole page created."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 346.4,
+            "end": 349.4,
+            "text": " Now, what I will do is, I will inspect this page."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 349.4,
+            "end": 351.4,
+            "text": " I will inspect and complete the code."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 351.4,
+            "end": 354.4,
+            "text": " Now, I will do the head part of this code."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 354.4,
+            "end": 356.4,
+            "text": " I will do the head part."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 356.4,
+            "end": 358.4,
+            "text": " The head part is deleted."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 358.4,
+            "end": 360.4,
+            "text": " And because the style of our web pages"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 360.4,
+            "end": 363.4,
+            "text": " usually included in the website."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 363.4,
+            "end": 366.4,
+            "text": " So, I have deleted the style."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 366.4,
+            "end": 369.4,
+            "text": " If I deleted the style of my web pages"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 369.4,
+            "end": 372.4,
+            "text": " then this is my same web page, which I was showing."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 372.4,
+            "end": 375.4,
+            "text": " These are the same photos that appear in it."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 375.4,
+            "end": 377.4,
+            "text": " These are the same posters."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 377.4,
+            "end": 380.4,
+            "text": " But, now, this much entertaining"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 380.4,
+            "end": 382.4,
+            "text": " or this much fun to see."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 382.4,
+            "end": 384.4,
+            "text": " And this is not our goal."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 384.4,
+            "end": 386.4,
+            "text": " But, as I will refresh it,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 386.4,
+            "end": 389.4,
+            "text": " what happened to the systematic order?"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 389.4,
+            "end": 393.4,
+            "text": " And, again, my entire information has been arranged."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 393.4,
+            "end": 395.4,
+            "text": " My colors have returned."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 395.4,
+            "end": 397.4,
+            "text": " My arrangements have returned."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 397.4,
+            "end": 399.4,
+            "text": " I have a style of my web page."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 399.4,
+            "end": 402.4,
+            "text": " So, a lot of major differences create CSS."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 402.4,
+            "end": 404.4,
+            "text": " So, never think that the style of my web pages"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 404.4,
+            "end": 405.4,
+            "text": " is very small."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 405.4,
+            "end": 407.4,
+            "text": " The main thing is that, you are content"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 407.4,
+            "end": 408.4,
+            "text": " or functionalities."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 408.4,
+            "end": 411.4,
+            "text": " The real life websites use."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 411.4,
+            "end": 415.4,
+            "text": " The user-facing, which is used on a day-to-day basis."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 415.4,
+            "end": 418.4,
+            "text": " Like Amazon, Google Chrome,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 418.4,
+            "end": 420.4,
+            "text": " different websites,"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 420.4,
+            "end": 423.4,
+            "text": " which are used for user interaction."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 423.4,
+            "end": 426.4,
+            "text": " For that, the styling is very important."
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 426.4,
+            "end": 428.4,
+            "text": " That's why, it is important that we learn CSS"
+        },
+        {
+            "number": "01",
+            "title": "What is CSS",
+            "start": 428.4,
+            "end": 431.4,
+            "text": " very carefully and not take it into consideration."
+        }
+    ],
+    "text": " Hi everyone, in this chapter we are going to study about CSS. CSS is a website, website, and a website to add styling to some documents.CSS is called Cascading Style Sheets. Now, the style sheet is clear that weare going to make a sheet that will add style in some document. And Cascading means that in CSS terms we will understand the chapters in CSS. Now, CSS is explained in a very basic way. So, we have just used a lot of documents as well as HTML. But the HTML web page is not that good, which shows the real life websites. Because in real life websites, there is a secret that is CSS. In it, there are styling colors, text decoration, which different things are used. Because of which, it is used to use the feeling, the feeling of seeing and the feeling of using it. And we have some boiled down stuff. So, like we have human skeleton. What is human skeleton? Our basic basic thing is to prepare it. All our organs are prepared in it. Important things are coming. But if we imagine it, we can understand it in a way like HTML. But we don't see human skeleton and see it in appealing. We will not say this skeleton is stylish. To add style, we have to apply skin layer. Then we have to wear it on clothes. So, we have to add the clothes that we wear in the styling. So, HTML is the skeleton just with additional layers. So, with HTML, we have to add the same basic elements. So, we have to add the style. We have to add color. We have to add color to make it more appealing. Or to look for users. If we put all of them at home, we will not be able to wear them without wearing them. And after wearing them, it will be more tasty. It is the same thing for CSS website. Without CSS, we can run all the websites. But if we want to make it beautiful, we have to make it nice. So, we should use CSS. Now, let's talk about the details. CSS is actually something. CSS is actually a language that is used to describe the style of a document. So, we should add style in a document. It is used to describe CSS. The style of the document is called text. We have written text, textual information. We are using font. What are the size of font? Are we showing bold things or italics? We are showing colors. What is the color of the element? Is it the color of the heading? Is it the color of the paragraph? Is it the background color? Different portions of the website? What is the background color? We have buttons. What is the background color? What is the text written on the button? So, the different parts of the text are different. Only these are different properties. What do they say? We call them properties. These are all properties of CSS. And they change their properties. They are used to make the style of the document. But before making the style of the document, we need some content. Some basic structure, some things, some things that we can style. So, before making the CSS, we have learned that HTML is learned. Because HTML gives us content. And we apply the style on the CSS. So, the first chapter that was written was HTML. And now we are going to style all the content on the CSS. Apart from that, we need to tell you about a small note. The CSS is very big topic as compared to HTML. In HTML, we covered a lot of things in CSS. But CSS is going to cover a lot more. So, the chapters that came in the CSS, we are covering all the CSS. But we don't have to worry about CSS. We have learned so many topics. But in this, how do we do this? Because CSS is so important. We will practice it in the form of assignment questions. In the form of practice questions. And the other things that we don't have to worry about. If all the properties are done, how do I remember them? I don't need to remember them. What we need to do is to make a smart web developer. Which can be Google. They have to solve the problem themselves. So, whatever we will see in the different properties of CSS, we don't have to worry about it. We have to cover a topic slowly and understand it only for now. And we have to take care of our questions. Next, we will see the example of what CSS is visually. This is an Amazon web page that is showing you. I will zoom in. This is showing you CSS. You will see a normal Amazon website on it. You will see it again. You will see different options. You will see some photos. But if I remove CSS on the same website, then this web page will show you something like this. What happened on this web page? All the things are there. The photos were there before. All the text was there. The sign-in button, the start-hair button, all these things. But this page is not appealing. It is used so much to make it useful. This is the difference between CSS and CSS. And in CSS. Let's look at another real life example. I will show you a video of Wikipedia on random pages. Let's take a look at Wikipedia's video. And I will search for this. Avengers. So, I got a lot of information about Avengers. Let's say, Avengers comics. And here is the whole page created. Now, what I will do is, I will inspect this page. I will inspect and complete the code. Now, I will do the head part of this code. I will do the head part. The head part is deleted. And because the style of our web pages usually included in the website. So, I have deleted the style. If I deleted the style of my web pages then this is my same web page, which I was showing. These are the same photos that appear in it. These are the same posters. But, now, this much entertaining or this much fun to see. And this is not our goal. But, as I will refresh it, what happened to the systematic order? And, again, my entire information has been arranged. My colors have returned. My arrangements have returned. I have a style of my web page. So, a lot of major differences create CSS. So, never think that the style of my web pages is very small. The main thing is that, you are content or functionalities. The real life websites use. The user-facing, which is used on a day-to-day basis. Like Amazon, Google Chrome, different websites, which are used for user interaction. For that, the styling is very important. That's why, it is important that we learn CSS very carefully and not take it into consideration."
+}

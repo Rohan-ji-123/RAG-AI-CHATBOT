@@ -1,0 +1,19 @@
+I'd be happy to help you with that.
+
+So, you're trying to learn about CSS in our Sigma web development course. You've got a question about CSS, and you're wondering where and how much content is covered in a specific video.
+
+From what I can recall, the video you're looking for is called "What is CSS". It's actually a part of our introductory module on web development basics.
+
+In this video, we cover the basics of CSS, including what it is, why we use it, and how it's used to style documents. We also touch on the difference between CSS and other styling languages.
+
+The video is divided into three main sections:
+
+* The first section (from 0:00 to 9:08) explains the basic concept of CSS and its importance in web development.
+* The second section (from 1:20 to 2:34) delves deeper into the language itself, explaining how it's used to describe the style of a document.
+* The third section (from 2:45 to 3:58) provides a brief overview of how CSS is used in real-world applications.
+
+Now, regarding your question about CSS, we actually cover this topic quite extensively in our course. We explain the differences between CSS and other styling languages, and provide examples of how to use CSS to style web pages.
+
+If you're looking for more information on CSS, I'd recommend checking out the next video in our series, which covers CSS selectors and properties. We also have a dedicated module on CSS frameworks and libraries if you're interested in learning more about those.
+
+If you have any more questions or need further clarification on anything, feel free to ask!
